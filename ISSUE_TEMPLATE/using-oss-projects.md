@@ -13,3 +13,4 @@ I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This
 ## Internal Process
 
 - [ ] Notify the xyz team that you intend to use this project
+- [ ] Send a notification to the open-source policy team
